@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TP2 - Exercice 6</string>
+    <string name="text">Use proximity sensor to zoom the image :</string>
+</resources>

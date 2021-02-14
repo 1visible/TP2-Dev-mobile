@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2- Exercice 2</string>
+    <string name="disponible">Disponible</string>
+    <string name="indisponible">Indisponible</string>
+    <string name="motion_detect">Capteur de détection de mouvement : </string>
+    <string name="accelerometer">Capteur d\'accelération : </string>
+</resources>

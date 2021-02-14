@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP2 - Exercice 4</string>
+    <string name="none">NONE</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+    <string name="direction">Direction: %1$s %2$s</string>
+</resources>

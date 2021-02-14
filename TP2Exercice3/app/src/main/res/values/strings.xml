@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP2 - Exercice 3</string>
+    <string name="not_supported">Fonctionnalité non supportée…</string>
+    <string name="xyz">X: %1$f, Y: %2$f, Z: %3$f\nMIN: %4$f, MAX: %5$f</string>
+</resources>
